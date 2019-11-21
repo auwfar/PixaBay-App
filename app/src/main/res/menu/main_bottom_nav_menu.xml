@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_images"
+        android:icon="@drawable/ic_burst_mode_black_24dp"
+        android:title="@string/title_images" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/title_favorites" />
+</menu>

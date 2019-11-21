@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pixabay App</string>
+    <string name="title_images">Images</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="images_is_empty">Images is empty</string>
+    <string name="image">Image</string>
+    <string name="favorite_images_is_empty">favorite Images is Empty</string>
+    <string name="user_name">User Name</string>
+    <string name="image_tags">Image Tags</string>
+    <string name="image_size">0 X 0</string>
+    <string name="favorites">Favorites</string>
+
+    <string-array name="category">
+        <item id="nature">Nature</item>
+        <item id="science">Science</item>
+        <item id="education">Education</item>
+        <item id="sports">Sports</item>
+        <item id="animals">Animals</item>
+    </string-array>
+
+    <string-array name="categoryCode">
+        <item>nature</item>
+        <item>science</item>
+        <item>education</item>
+        <item>sports</item>
+        <item>animals</item>
+    </string-array>
+</resources>
